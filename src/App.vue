@@ -1,6 +1,6 @@
 <template>
   <div class='container'>
-    <h1> To-Do List </h1>
+    <h1> To-Do Lists </h1>
     <md-card class="todoBox">
       <md-field>
         <md-input v-model="currentTodo" 
