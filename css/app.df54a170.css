@@ -1,0 +1,1 @@
+li{list-style:none}.container{margin:auto;text-align:center;width:50%}.completed{text-decoration:line-through}.todoBox{font-size:1.5em;padding:0 5px 2px 5px}.cardBox{padding:5px}.closeButton{float:left}.closeButton:hover{cursor:pointer;-webkit-transition:.2s ease;transition:.2s ease;color:red}.completeButton{float:right}.todos{margin:10px}
